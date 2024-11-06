@@ -10,3 +10,5 @@ Adapte o texto abaixo para um podcast, cujo título é "Fome de Saúde, Vontade 
 
 Este texto foi gerado pelo próprio ChatGPT, para o desafio anterior do e-book. Porém, eu achei este texto curto, e pedi para aumentá-lo.
 Ao me deparar com o desafio atual, percebi que poderia adaptar este texto para um podcast, contando, mais uma vez, com a ajuda do ChatGPT.
+
+Áudio gerado com Eleven Labs, com a voz do "Eric" (conversacional).
